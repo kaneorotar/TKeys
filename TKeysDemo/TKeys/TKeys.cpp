@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "TKeys.h"
 
 TKeys::TKeys(void){
